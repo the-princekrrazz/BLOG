@@ -15,4 +15,4 @@ A simple blog application built using Node.js, MongoDB, JWT authentication, Logi
 <b>EJS</b>: Template engine to render dynamic HTML views.</br>
 <b>Bcrypt</b>: Password hashing for secure storage.</br>
 <b>Mongoose></b>: MongoDB object modeling tool for data manipulation.</br>
-<img src="blogpic.jpg"></img>
+<img src="blogpic.jpg](https://raw.githubusercontent.com/the-princekrrazz/BLOG/refs/heads/main/blogpic.png"></img>
